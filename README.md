@@ -1,6 +1,7 @@
 Probabilistic Machine Perception
 =====
-## Group Members:
+
+Group Members:
 - Che-Hsun Liu
 - Polar Liang
 - Henry Lin
